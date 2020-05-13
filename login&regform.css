@@ -1,0 +1,25 @@
+.body {
+background-image:url(he.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+height: 100%;
+width: 100%;
+background-position: center;
+position: absolute;
+}
+.formbox {
+    height: 480px;
+    width: 380px;
+    border-radius: 20px;
+    background-color: white;
+    position: relative;
+    margin:0% auto;
+    padding:5px;
+    overflow: hidden;
+}
+
+input[type="text"] {
+    
+    margin-left: 20px;
+}
+
